@@ -1,0 +1,17 @@
+D:\Working\Content\EIT.ConsoleAppication\EIT.ConsoleAppication\obj\Debug\net6.0\EIT.ConsoleAppication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working\Content\EIT.ConsoleAppication\EIT.ConsoleAppication\obj\Debug\net6.0\EIT.ConsoleAppication.AssemblyInfoInputs.cache
+D:\Working\Content\EIT.ConsoleAppication\EIT.ConsoleAppication\obj\Debug\net6.0\EIT.ConsoleAppication.AssemblyInfo.cs
+D:\Working\Content\EIT.ConsoleAppication\EIT.ConsoleAppication\obj\Debug\net6.0\EIT.ConsoleAppication.csproj.CoreCompileInputs.cache
+D:\Working\Content\EIT.ConsoleAppication\EIT.ConsoleAppication\bin\Debug\net6.0\EIT.ConsoleAppication.exe
+D:\Working\Content\EIT.ConsoleAppication\EIT.ConsoleAppication\bin\Debug\net6.0\EIT.ConsoleAppication.deps.json
+D:\Working\Content\EIT.ConsoleAppication\EIT.ConsoleAppication\bin\Debug\net6.0\EIT.ConsoleAppication.runtimeconfig.json
+D:\Working\Content\EIT.ConsoleAppication\EIT.ConsoleAppication\bin\Debug\net6.0\EIT.ConsoleAppication.dll
+D:\Working\Content\EIT.ConsoleAppication\EIT.ConsoleAppication\bin\Debug\net6.0\EIT.ConsoleAppication.pdb
+D:\Working\Content\EIT.ConsoleAppication\EIT.ConsoleAppication\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Working\Content\EIT.ConsoleAppication\EIT.ConsoleAppication\obj\Debug\net6.0\EIT.ConsoleAppication.csproj.AssemblyReference.cache
+D:\Working\Content\EIT.ConsoleAppication\EIT.ConsoleAppication\obj\Debug\net6.0\EIT.ConsoleAppication.csproj.CopyComplete
+D:\Working\Content\EIT.ConsoleAppication\EIT.ConsoleAppication\obj\Debug\net6.0\EIT.ConsoleAppication.dll
+D:\Working\Content\EIT.ConsoleAppication\EIT.ConsoleAppication\obj\Debug\net6.0\refint\EIT.ConsoleAppication.dll
+D:\Working\Content\EIT.ConsoleAppication\EIT.ConsoleAppication\obj\Debug\net6.0\EIT.ConsoleAppication.pdb
+D:\Working\Content\EIT.ConsoleAppication\EIT.ConsoleAppication\obj\Debug\net6.0\EIT.ConsoleAppication.genruntimeconfig.cache
+D:\Working\Content\EIT.ConsoleAppication\EIT.ConsoleAppication\obj\Debug\net6.0\ref\EIT.ConsoleAppication.dll
