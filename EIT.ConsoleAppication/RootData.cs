@@ -79,7 +79,7 @@
         public List<Chip> chips { get; set; } 
         public SubtitleBanner subtitleBanner { get; set; } 
         public SubtitleAmount subtitleAmount { get; set; }
-        public string limitAmount { get; set; }
+        public double? limitAmount { get; set; }
         public ActionStatement actionStatement { get; set; }
         public List<Description> descriptions { get; set; }
         public BannerId bannerId { get; set; }

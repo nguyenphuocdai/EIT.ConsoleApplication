@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Working\\Content\\EIT.ConsoleAppication\\EIT.ConsoleAppication\\EIT.ConsoleAppication.csproj": {}
+    "D:\\Working\\EIT\\EIT.ConsoleApplication\\EIT.ConsoleAppication\\EIT.ConsoleAppication.csproj": {}
   },
   "projects": {
-    "D:\\Working\\Content\\EIT.ConsoleAppication\\EIT.ConsoleAppication\\EIT.ConsoleAppication.csproj": {
+    "D:\\Working\\EIT\\EIT.ConsoleApplication\\EIT.ConsoleAppication\\EIT.ConsoleAppication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Working\\Content\\EIT.ConsoleAppication\\EIT.ConsoleAppication\\EIT.ConsoleAppication.csproj",
+        "projectUniqueName": "D:\\Working\\EIT\\EIT.ConsoleApplication\\EIT.ConsoleAppication\\EIT.ConsoleAppication.csproj",
         "projectName": "EIT.ConsoleAppication",
-        "projectPath": "D:\\Working\\Content\\EIT.ConsoleAppication\\EIT.ConsoleAppication\\EIT.ConsoleAppication.csproj",
-        "packagesPath": "C:\\Users\\daing\\.nuget\\packages\\",
-        "outputPath": "D:\\Working\\Content\\EIT.ConsoleAppication\\EIT.ConsoleAppication\\obj\\",
+        "projectPath": "D:\\Working\\EIT\\EIT.ConsoleApplication\\EIT.ConsoleAppication\\EIT.ConsoleAppication.csproj",
+        "packagesPath": "C:\\Users\\dai.nguyenp\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\EIT\\EIT.ConsoleApplication\\EIT.ConsoleAppication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\daing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dai.nguyenp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.110\\RuntimeIdentifierGraph.json"
         }
       }
     }
